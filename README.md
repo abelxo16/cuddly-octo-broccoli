@@ -1,4 +1,4 @@
 # cuddly-octo-broccoli
-Colorize Front-End\n
-Inspired from colorhunt.io\n
+Colorize Front-End
+Inspired from colorhunt.io
 Color palette generating site
