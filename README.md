@@ -1,4 +1,2 @@
 # Colorize
-Colorize Front-End -
-Inspired from colorhunt.io,
-Color palette generating site
+This is a front-end website inspired from [colorhunt.co](https://colorhunt.co/). It generates color-palettes.
