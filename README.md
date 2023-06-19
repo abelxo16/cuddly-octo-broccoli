@@ -1,5 +1,6 @@
 # Colorize
 This is a front-end website inspired from [colorhunt.co](https://colorhunt.co/). It generates color-palettes.
+Designed on Figma.
 You can access the site [here](https://heenamir.github.io/colorize/).
 
 This is what the home page looks like- 
